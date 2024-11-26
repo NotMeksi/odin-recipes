@@ -1,9 +1,11 @@
 body {
     font-family: 'Georgia', 'Garamond', Times, serif;
+    text-align: center;
 }
 
 h1 {
-    text-align: center;
     background-color: goldenrod;
     color: white;
+    font-size: 56px;
+    font-weight: 1000px;
 }
