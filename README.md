@@ -17,6 +17,7 @@ The deployed site can be viewed [here.](https://notmeksi.github.io/odin-recipes/
 
 
 **CONCEPTS IMPLEMENTED**
+
 This project is currently coded completely in HTML.
 From what I learnt on the Odin Project, I practiced:
 
