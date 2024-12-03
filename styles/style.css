@@ -5,10 +5,13 @@ body,
 }
 
 h1 {
-    background-color: goldenrod;
+    background-color: hsl(43, 85%, 75%);
+    border: 2px goldenrod solid;
     color: white;
     font-size: 56px;
     font-weight: 1000px;
+    padding: 10px;
+
 }
 
 #recipe-list {
@@ -21,4 +24,9 @@ ul,
 ol,
 h2 {
     text-align: left;
+}
+
+li {
+    margin: 48px;
+    list-style: none;
 }
