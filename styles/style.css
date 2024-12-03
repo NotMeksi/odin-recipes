@@ -18,6 +18,7 @@ h1 {
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    margin-top: 72px;
 }
 
 ul,
@@ -65,6 +66,10 @@ div li {
 .steps li {
     margin-left: 20px;
     margin-bottom: 8px;
+}
+
+.steps {
+    margin-bottom: 72px;
 }
 
 .line {
