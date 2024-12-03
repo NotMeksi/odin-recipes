@@ -36,3 +36,10 @@ h2 {
     padding: 6px;
     color: goldenrod;
 }
+
+.recipe-description {
+    margin: 24px 48px 48px 48px;
+    padding-bottom: 24px;
+    border-bottom: 2px goldenrod solid;
+    font-size: 18px;
+}
