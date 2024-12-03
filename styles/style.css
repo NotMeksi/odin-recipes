@@ -31,6 +31,10 @@ h2 {
     list-style: none;
 }
 
+img {
+    border: 1px hsl(43, 85%, 75%) solid;
+}
+
 #desc {
     border: 2px goldenrod solid;
     padding: 6px;
@@ -42,4 +46,29 @@ h2 {
     padding-bottom: 24px;
     border-bottom: 2px goldenrod solid;
     font-size: 18px;
+}
+
+div h2 {
+    margin-left: 20px;
+    color: goldenrod;
+}
+
+div li {
+    font-size: 18px;
+}
+
+.ingredients li {
+    list-style: none;
+    margin-bottom: 8px;
+}
+
+.steps li {
+    margin-left: 20px;
+    margin-bottom: 8px;
+}
+
+.line {
+    margin: 48px;
+    margin-bottom: 32px;
+    border-bottom: 2px goldenrod solid;
 }
